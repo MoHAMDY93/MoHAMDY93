@@ -9,7 +9,7 @@ Learning how software works from the API layer down to the operating system. Int
 - **Databases:** [PostgreSQL / MySQL]- **Systems:** Linux, processes & threads, memory management, MPI (parallel computing)
 - **Core Strengths:** Data Structures & Algorithms, competitive programming
 
-## 📚 Currently Learning- 
+## 📚 Currently Learning
 - **Backend:** system design, API versioning, authentication, testing
 - **Databases (advanced):** indexing and query plans, transactions & isolation levels, locking, replication
 - **Low-level & OS:** scheduling, virtual memory, file systems, concurrency and synchronization
