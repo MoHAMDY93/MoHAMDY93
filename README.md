@@ -20,7 +20,7 @@ Learning how software works from the API layer down to the operating system. Int
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/linkedin.com/in/muhamed-hamdy-2aa280292](https://www.linkedin.com/in/muhamed-hamdy-2aa280292/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXcdbIDWfQXeabA%2BcxakNbw%3D%3D)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-hamdy-2aa280292/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedhamdy4490@gmail.com) 
 
 # 💻 Tech Stack:
